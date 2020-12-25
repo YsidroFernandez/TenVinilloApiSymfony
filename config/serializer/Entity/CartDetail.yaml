@@ -1,0 +1,13 @@
+App\Entity\CartDetail:
+  attributes:
+    id:
+      groups: ['cart_detail']
+    cart:
+      groups: ['cart_detail']
+    product:
+      groups: ['cart_detail']
+    cantidad:
+      groups: ['cart_detail']
+    precio:
+      groups: ['cart_detail']
+    

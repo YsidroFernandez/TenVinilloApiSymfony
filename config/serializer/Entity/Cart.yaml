@@ -1,0 +1,11 @@
+App\Entity\Cart:
+  attributes:
+    id:
+      groups: ['cart']
+    fecha:
+      groups: ['cart']
+    user:
+      groups: ['cart']
+    details:
+      groups: ['cart']
+    

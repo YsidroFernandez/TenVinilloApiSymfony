@@ -1,0 +1,12 @@
+App\Entity\Purchase:
+  attributes:
+    id:
+      groups: ['purchase']
+    fecha_compra:
+      groups: ['purchase']
+    gastos_envio:
+      groups: ['purchase']
+    monto:
+      groups: ['purchase']
+    
+    

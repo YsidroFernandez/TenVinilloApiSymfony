@@ -1,0 +1,15 @@
+App\Entity\PurchaseDetail:
+  attributes:
+    id:
+      groups: ['purchase_detail']
+    precio:
+      groups: ['purchase_detail']
+    cantidad:
+      groups: ['purchase_detail']
+    product:
+      groups: ['purchase_detail']
+    fecha:
+      groups: ['purchase_detail']
+    purchase:
+      groups: ['purchase_detail']
+    

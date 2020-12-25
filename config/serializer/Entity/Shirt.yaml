@@ -1,0 +1,10 @@
+App\Entity\Shirt:
+  attributes:
+    id:
+      groups: ['shirt']
+    talla:
+      groups: ['shirt']
+    color:
+      groups: ['shirt']
+    precio:
+      groups: ['shirt']
